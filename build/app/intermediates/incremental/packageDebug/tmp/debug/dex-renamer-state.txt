@@ -1,0 +1,4 @@
+#Thu Apr 28 11:28:16 BRT 2022
+base.0=/home/nivando/Flutter-Beginner-Project/NewsApp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
