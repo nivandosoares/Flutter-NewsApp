@@ -6,4 +6,8 @@
 
 this is a simple News app made in Flutter and using the NewsAPI service, you can see the endpoints <a href = "https://newsapi.org/docs">here</a>.
 
+## Screenshot
+
+<img src = "screenshot.png">
+
 
