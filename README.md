@@ -8,6 +8,6 @@ this is a simple News app made in Flutter and using the NewsAPI service, you can
 
 ## Screenshot
 
-<img src = "screenshot.png">
+<img src = "screenshot.jpg">
 
 
